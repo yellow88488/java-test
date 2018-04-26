@@ -1,4 +1,4 @@
-package fundamental_programming_structures.constant.datatype;
+package fundamental_programming_structures.datatype;
 
 public class DataType {
     public static void main(String[] args) throws Exception{

@@ -1,4 +1,4 @@
-package fundamental_programming_structures.constant.bignumbers;
+package fundamental_programming_structures.bignumbers;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;

@@ -1,4 +1,4 @@
-package fundamental_programming_structures.constant.operator;
+package fundamental_programming_structures.operator;
 
 public class Operators {
     public static void main(String[] args){

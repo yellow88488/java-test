@@ -1,4 +1,4 @@
-package fundamental_programming_structures.constant.controlflow;
+package fundamental_programming_structures.controlflow;
 
 public class ControlFlow {
     public static void main(String[] args){

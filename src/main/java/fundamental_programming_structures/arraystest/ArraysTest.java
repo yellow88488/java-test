@@ -1,4 +1,4 @@
-package fundamental_programming_structures.constant.arraystest;
+package fundamental_programming_structures.arraystest;
 
 import java.util.Arrays;
 
@@ -43,7 +43,7 @@ public class ArraysTest {
                 {5, 10, 11, 8},
                 {9, 6, 7, 12},
                 {4, 15, 14, 1}
-        }
+        };
 
 
 

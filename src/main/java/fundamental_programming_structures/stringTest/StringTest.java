@@ -1,4 +1,4 @@
-package String;
+package fundamental_programming_structures.stringTest;
 
 public class StringTest {
     public static void main(String[] args){
