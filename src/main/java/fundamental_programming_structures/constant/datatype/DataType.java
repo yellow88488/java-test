@@ -1,4 +1,4 @@
-package datatype;
+package fundamental_programming_structures.constant.datatype;
 
 public class DataType {
     public static void main(String[] args) throws Exception{
@@ -50,6 +50,8 @@ public class DataType {
         Integer obj = m;//自动装箱
         int m1 = obj;//自动拆箱
         //jdk1.5后支持自动装箱与拆箱
+
+        //枚举？？？？？？
 
     }
 }
